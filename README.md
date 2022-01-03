@@ -1,6 +1,6 @@
 ## Hi. I'm Subin Choi!
 
-I am an undergraduate student interested in cyber security and machine learning.   
+I am an undergraduate student interested in cyber security.   
 I want to be a security expert that creates a more ethical world.   
 Feel free to contact me. Thank you:blush:   
 
